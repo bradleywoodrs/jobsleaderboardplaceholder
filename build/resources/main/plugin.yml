@@ -1,0 +1,7 @@
+name: jobsleaderboardplaceholder
+version: '1.0'
+main: com.github.bradleywoodrs.jobsleaderboardplaceholder.Jobsleaderboardplaceholder
+api-version: '1.21'
+depend:
+  - PlaceholderAPI
+  - Jobs
